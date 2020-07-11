@@ -44,3 +44,12 @@ input {
     padding: 13px;
     border-radius: 20px;
 }
+
+#footer-navbar{
+    position: fixed;
+    float:right;
+    bottom: 0;
+    width: 100%;
+    padding: 15px;
+    background-color: #f2f2f2;
+}
